@@ -17,19 +17,26 @@ Chapter I - A Pragmatic Philosophy:
 - Know your audience.
 - Know what you want to say.
 - Choose your moment.
-- Choose your style. 
+- Choose your style.
 - Make it look good.
 - Involve your audience.
 - Be a listener.
 - Get back to people.
 - Keep code and documentation together.
-- Email tips:
-    #1 - Proofread before you hit SEND.
-    #2 - Check your spelling and look for any accidental auto-correct mishaps.
-    #3 - Keep the format simple and clean.
-    #4 - Keep quoting to a minimum.
-    #5 - Don't flame or troll, it will come back to haunt you.
-    #6 - If you wouldn't say it to their face, don't say it online.
-    #7 - Check the list of recipients 
-- Pragmatic Programmers embrace documentation as integral to the development process. 
+
+---
+
+### Email tips:
+
+[ ] Proofread before you hit SEND.
+[ ] Check your spelling and look for any accidental auto-correct mishaps.
+[ ] Keep the format simple and clean.
+[ ] Keep quoting to a minimum.
+[ ] Don't flame or troll, it will come back to haunt you.
+[ ] If you wouldn't say it to their face, don't say it online.
+[ ] Check the list of recipients
+
+---
+
+- Pragmatic Programmers embrace documentation as integral to the development process.
 - Restrict commenting to why something is done, its purpose and its goal.

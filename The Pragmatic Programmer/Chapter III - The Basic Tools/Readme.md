@@ -1,4 +1,4 @@
-Chapter III - The Basic Tools:
+# Chapter III - The Basic Tools:
 
 - Tools amplify your talent.
 - Start with a basic set of more generalist tools and expect to add to your toolbox regularly.
@@ -33,11 +33,18 @@ Chapter III - The Basic Tools:
 - The amount of surprise that you have at a bug is proportionate to the amount of faith you have on a program's elements.
 - If you get a big surprise, check your assumptions and the code more closely.
 - Don't assume it - prove it.
-- The Debugging Checklist:
-  - Is the problem being reported a direct result of the underlying bug, or merely a symptom?
-  - Is the bug really in the compiler? Is it in the OS? Or is it in your code?
-  - If you explained this problem in detail to a coworker, what would you say?
-  - If the suspect code passes its unit tests, are the tests complete enough? What happens if you run the unit test with this data?
-  - Do the conditions that caused this bug exist anywhere else in the system?
+
+---
+
+### The Debugging Checklist:
+
+[ ] Is the problem being reported a direct result of the underlying bug, or merely a symptom?
+[ ] Is the bug really in the compiler? Is it in the OS? Or is it in your code?
+[ ] If you explained this problem in detail to a coworker, what would you say?
+[ ] If the suspect code passes its unit tests, are the tests complete enough? What happens if you run the unit test with this data?
+[ ] Do the conditions that caused this bug exist anywhere else in the system?
+
+---
+
 - Create Engineering Daybooks - record what you did, what you learn, sketch ideas and readings from meters.
 - All software becomes legacy as soon as its written.
