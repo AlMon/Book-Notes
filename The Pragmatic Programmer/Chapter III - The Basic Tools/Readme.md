@@ -20,11 +20,11 @@ Chapter III - The Basic Tools:
 - Another benefit of VCSs is that they allow to keep track of all changes and answer questions thereof.
 - Always use Version Control, regardless of size and scope of project.
 - A strong benefit of VCS branches is isolation.
-- The origin of the word "bug" is literal, it comes from a moth getting stuck in a machine that made it function improperly. 
+- The origin of the word "bug" is literal, it comes from a moth getting stuck in a machine that made it function improperly.
 - Embrace the fact that debugging is just problem-solving and approach it as such.
 - Concentrate on fixing the problem, not placing the blame.
 - Don't panic and never think that "it's impossible" as that's never the case.
-- Artificial tests are important to run first, but not omnipotent. 
+- Artificial tests are important to run first, but not omnipotent.
 - If a bug proves to be particularly naughty, interview the bug reporter to gain insight.
 - Use Binary Chops to place limits in the amounts of troubling data if there's a data error that's complicated.
 - "Rubber Ducking" - explaining the issue as you tell the story of the code step-by-step to another person, is often invaluable for debugging.
@@ -34,10 +34,10 @@ Chapter III - The Basic Tools:
 - If you get a big surprise, check your assumptions and the code more closely.
 - Don't assume it - prove it.
 - The Debugging Checklist:
-    - Is the problem being reported a direct result of the underlying bug, or merely a symptom?
-    - Is the bug really in the compiler? Is it in the OS? Or is it in your code?
-    - If you explained this problem in detail to a coworker, what would you say?
-    - If the suspect code passes its unit tests, are the tests complete enough? What happens if you run the unit test with this data?
-    - Do the conditions that caused this bug exist anywhere else in the system?
+  - Is the problem being reported a direct result of the underlying bug, or merely a symptom?
+  - Is the bug really in the compiler? Is it in the OS? Or is it in your code?
+  - If you explained this problem in detail to a coworker, what would you say?
+  - If the suspect code passes its unit tests, are the tests complete enough? What happens if you run the unit test with this data?
+  - Do the conditions that caused this bug exist anywhere else in the system?
 - Create Engineering Daybooks - record what you did, what you learn, sketch ideas and readings from meters.
 - All software becomes legacy as soon as its written.
