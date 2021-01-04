@@ -1,0 +1,42 @@
+Chapter II - A Pragmatic Approach:
+
+- Good design is easier to change than bad design.
+- A thing is well designed if it adapts to the people who use it.
+- ETC: Easier To Change. Try to make what you write replaceable.
+- Maintenance is not a discrete activity, but a routine part of the entire dev process.
+- When we duplicate, we invite a maintenance nightmare.
+- Every piece of knowledge must have a single, authoritative representations within a system.
+- Dry is about the duplication of knowledge and of intent.
+- Not all code duplication is knowledge duplication.
+- Setting up a DRY-check channel of communication can alleviate interdeveloper duplication.
+- Appoint a team member as the project librarian, to facilitate the exchange of knowledge.
+- Make it easy to reuse or people won't use it.
+- Minimize secondary effects by decoupling.
+- Design components that are self-contained: independent, with a single well-defined purpose.
+- Don't rely on the properties of thing you can't control.
+- The Decorator Pattern: add functionality to things without changing them.
+- When writing documentation, focus on the content.
+- Nothing is more dangerous than an idea if it's the only one you have.
+- Reversibility is important as we don't always make the best decisions the first time around.
+- You can't plan for architectural volatility.
+- Break your code into components, even if you end up deploying on a single server.
+- Forgo following fads.
+- Look for the important requirements, the defining ones.
+- Don't specify to death.
+- Look for areas of doubts and risks, then make those the first areas to code.
+- A project is never finished.
+- Tracer code is one level above prototyping.
+- Prototype code is disposable, tracer code is meant to be for keeps.
+- Prototypes are designed to answer just a few questions.
+- Prototyping is a learning experience. Its value is not the code, but the lessons learned.
+- Always define prototypes as such, don't let anybody think that they can be completed or deployed.
+- The limits of language are the limits of one's world.
+- To some extent all answers are estimates. Some are just closer to target.
+- When it comes to estimating, start by asking if they need high accuracy or ballpark figures.
+- Scale estimates as follows: 1 - 15 days / 3 - 6 weeks / 8 - 20 weeks / 20+ weeks
+- Choose the unit of your answer to reflect the accuracy intended.
+- Record your estimates and keep track of them. If you break, find out why.
+- Estimate in a range of scenarios accounting for different variables.
+- The best answer when asked for an estimate: "I'll get back to you". Analyze then communicate.
+- Create 3 estimates: optimistic, most likely and pessimistic. 
+- Communicate the pessimistic and gun for optimistic.
