@@ -1,4 +1,4 @@
-Chapter II - A Pragmatic Approach:
+# Chapter II - A Pragmatic Approach:
 
 - Good design is easier to change than bad design.
 - A thing is well designed if it adapts to the people who use it.
@@ -38,5 +38,5 @@ Chapter II - A Pragmatic Approach:
 - Record your estimates and keep track of them. If you break, find out why.
 - Estimate in a range of scenarios accounting for different variables.
 - The best answer when asked for an estimate: "I'll get back to you". Analyze then communicate.
-- Create 3 estimates: optimistic, most likely and pessimistic. 
+- Create 3 estimates: optimistic, most likely and pessimistic.
 - Communicate the pessimistic and gun for optimistic.

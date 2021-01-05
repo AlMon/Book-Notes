@@ -40,10 +40,10 @@
 
 ### The Debugging Checklist:
 
-- [ ] Is the problem being reported a direct result of the underlying bug, or merely a symptom?
-- [ ] Is the bug really in the compiler? Is it in the OS? Or is it in your code?
-- [ ] If you explained this problem in detail to a coworker, what would you say?
-- [ ] If the suspect code passes its unit tests, are the tests complete enough? What happens if you run the unit test with this data?
-- [ ] Do the conditions that caused this bug exist anywhere else in the system?
+- [x] Is the problem being reported a direct result of the underlying bug, or merely a symptom?
+- [x] Is the bug really in the compiler? Is it in the OS? Or is it in your code?
+- [x] If you explained this problem in detail to a coworker, what would you say?
+- [x] If the suspect code passes its unit tests, are the tests complete enough? What happens if you run the unit test with this data?
+- [x] Do the conditions that caused this bug exist anywhere else in the system?
 
 ---
