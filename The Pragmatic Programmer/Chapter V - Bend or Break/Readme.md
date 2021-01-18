@@ -1,0 +1,31 @@
+# Chapter V - Bend or Break:
+
+- Life doesn’t stand still. Neither can the code that we write.
+- Write code that bends and doesn’t break.
+- Coupling is the enemy of change, because it links together things that must change in parallel.
+- Decoupled code is easier to change.
+- Don't couple code because you aren’t sure what might be affected.
+- You shouldn’t make decisions based on the internal state of an object and then update that object.
+- Don't chain method calls. Try not to have more than one “.” when you access something.
+- Global data also creates coupling when it comes to teasing your code apart.
+- Reuse should probably not be a primary concern when creating code, but the thinking that goes into making code reusable should be part of your coding routine.
+- If it’s important enough to be global, wrap it in an API.
+- An event represents the availability of information.
+- Streams let us treat events as if they were a collection of data. It’s as if we had a list of events, which got longer when new events arrive.
+- Event streams unify synchronous and asynchronous processing behind a common, convenient API.
+- We need to get back to thinking of programs as being something that transforms inputs into outputs.
+- When we think about design, we rarely think about creating transformations.
+- Programming is about code, but programs are about data.
+- Don't hoard state, pass it around.
+- You can handle checking for errors inside your transformations or outside them.
+- Thinking of code as a series of (nested) transformations can be a liberating approach to programming.
+- Using inheritance in an object-oriented language is not what you want to do.
+- Now we’re faced with a generation of OO developers who use inheritance for one of two reasons: they don’t like typing, or they like types.
+- Inheritance is coupling.
+- Don't pay inheritance tax.
+- Inheritance encourages developers to create classes whose objects have large numbers of methods. If a parent class has 20 methods, and the subclass wants to make use of just two of them, its objects will still have the other 18 just lying around and callable.
+- Instead you should be using Interfaces & Protocols, Delegation and Mixins & Traits.
+- Mixins' basic idea is simple: we want to be able to extend classes and objects with new functionality without using inheritance.
+- Inheritance is rarely the answer.
+- Parameterize your app using external configuration.
+- Without external configuration, your code is not as adaptable or flexible as it could be.
