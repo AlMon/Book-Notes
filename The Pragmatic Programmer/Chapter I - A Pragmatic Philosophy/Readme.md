@@ -30,12 +30,12 @@
 
 ### Email Checklist:
 
-- [x] Proofread before you hit SEND
-- [x] Check your spelling and look for any accidental auto-correct mishaps
-- [x] Keep the format simple and clean
-- [x] Keep quoting to a minimum
-- [x] Don't flame or troll, it will come back to haunt you
-- [x] If you wouldn't say it to their face, don't say it online
-- [x] Check the list of recipients
+- [ ] Proofread before you hit SEND
+- [ ] Check your spelling and look for any accidental auto-correct mishaps
+- [ ] Keep the format simple and clean
+- [ ] Keep quoting to a minimum
+- [ ] Don't flame or troll, it will come back to haunt you
+- [ ] If you wouldn't say it to their face, don't say it online
+- [ ] Check the list of recipients
 
 ---

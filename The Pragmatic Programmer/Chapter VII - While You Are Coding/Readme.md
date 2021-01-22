@@ -20,10 +20,10 @@
 
 ### Do the following:
 
-- [x] **1.** Write “I’m prototyping” on a sticky note, and stick it on the side of your screen.
-- [x] **2.** Remind yourself that prototypes are meant to fail. And remind yourself that prototypes get thrown away, even if they don’t fail. There is no downside to doing this.
-- [x] **3.** In your empty editor buffer, create a comment describing in one sentence what you want to learn or do.
-- [x] **4.** Start coding.
+- [ ] **1.** Write “I’m prototyping” on a sticky note, and stick it on the side of your screen.
+- [ ] **2.** Remind yourself that prototypes are meant to fail. And remind yourself that prototypes get thrown away, even if they don’t fail. There is no downside to doing this.
+- [ ] **3.** In your empty editor buffer, create a comment describing in one sentence what you want to learn or do.
+- [ ] **4.** Start coding.
 
 If you start to have doubts, look at the sticky note. At some point during the first prototype you will be surprised to find yourself humming along with your music, enjoying the feeling of creating code. Afterwards delete all the prototype code, throw away the sticky note, and fill that empty editor buffer with bright, shiny new code.
 
@@ -55,9 +55,9 @@ If you start to have doubts, look at the sticky note. At some point during the f
 
 ### How to refactor without doing more harm than good:
 
-- [x] **1.** Don’t try to refactor and add functionality at the same time.
-- [x] **2.** Make sure you have good tests before you begin refactoring. Run the tests as often as possible. That way you will know quickly if your changes have broken anything.
-- [x] **3.** Take short, deliberate steps: move a field from one class to another, split a method, rename a variable. Refactoring often involves making many localized changes that result in a larger-scale change. If you keep your steps small, and test after each step, you will avoid prolonged debugging.
+- [ ] **1.** Don’t try to refactor and add functionality at the same time.
+- [ ] **2.** Make sure you have good tests before you begin refactoring. Run the tests as often as possible. That way you will know quickly if your changes have broken anything.
+- [ ] **3.** Take short, deliberate steps: move a field from one class to another, split a method, rename a variable. Refactoring often involves making many localized changes that result in a larger-scale change. If you keep your steps small, and test after each step, you will avoid prolonged debugging.
 
 ---
 
@@ -74,11 +74,11 @@ If you start to have doubts, look at the sticky note. At some point during the f
 
 ### Security Principles:
 
-- [x] **1.** Minimize Attack Surface Area
-- [x] **2.** Principle of Least Privilege
-- [x] **3.** Secure Defaults
-- [x] **4.** Encrypt Sensitive Data
-- [x] **5.** Maintain Security Updates
+- [ ] **1.** Minimize Attack Surface Area
+- [ ] **2.** Principle of Least Privilege
+- [ ] **3.** Secure Defaults
+- [ ] **4.** Encrypt Sensitive Data
+- [ ] **5.** Maintain Security Updates
 
 ---
 

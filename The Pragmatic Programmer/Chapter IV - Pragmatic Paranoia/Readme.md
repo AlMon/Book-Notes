@@ -9,9 +9,9 @@
 
 A program that meets the requirements of being DBC or Design By Contract must meet 3 conditions:
 
-- [x] **Preconditions:** What must be true in order for a routine to be called. Basically a call's requirements.
-- [x] **Postconditions:** What the routine is guaranteed to get done and the state of the world when it is finished.
-- [x] **Class Invariants:** A class which ensures that this condition is always true from the point of view of a caller.
+- [ ] **Preconditions:** What must be true in order for a routine to be called. Basically a call's requirements.
+- [ ] **Postconditions:** What the routine is guaranteed to get done and the state of the world when it is finished.
+- [ ] **Class Invariants:** A class which ensures that this condition is always true from the point of view of a caller.
 
 The aim is for the Contract to become a routine. Some languages better support this concept like Clojure and Elixir, for example.
 
