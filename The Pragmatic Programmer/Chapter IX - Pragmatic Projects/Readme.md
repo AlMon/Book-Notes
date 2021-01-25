@@ -1,0 +1,50 @@
+# Chapter IX - Pragmatic Projects:
+
+- As soon as you have more than one person working on a project, you need to establish some ground rules and delegate parts of the project accordingly.
+- The purpose of a software development method is to help people work together.
+- Success is in the eye of the beholder —the sponsor of the project.
+- Sign your work, and take pride in what you do.
+- There are advantages to being a pragmatic individual, but these advantages are multiplied if the individual is working on a pragmatic team.
+- A pragmatic team is small, under 10-12 or so members. Members come and go rarely.
+- Maintain small, stable teams.
+- Quality is a team issue.
+- Quality is built in, not bolted on.
+- Teams that want to succeed need to consider their knowledge and skill investments as well.
+- Trying to get things done “whenever there’s a free moment” means they will never happen.
+- Too many teams are so busy bailing out water that they don’t have time to fix the leak. Schedule it. Fix it.
+- Don’t adopt new tech, frameworks, or libraries just because “everyone is doing it.” What some people call "Shiny Object Syndrome."
+- If your team wants to try out a new technology, put tasks on the schedule to them and analyze results.
+- The team as an entity needs to communicate clearly with the rest of the world.
+- Great project teams have a distinct personality.
+- There is a simple marketing trick that helps teams communicate as one: generate a brand.
+- You should be able to ask a question of team members and get a more-or-less instant reply.
+- Maintain awareness to stay DRY.
+- Build teams so you can build code end-to-end, incrementally and iteratively.
+- A great way to ensure both consistency and accuracy is to automate everything the team does.
+- Automation is an essential component of every project team.
+- Give each member the ability to shine in their own way.
+- Imitating the form, but not the content is what anthropologists call a cargo cult.
+- By investing in and building up the easily-visible artifacts, you hope to attract the underlying, working magic.
+- Do what works, not what's fashionable.
+- One size fits no one well.
+- You want to take the best pieces from any particular methodology and adapt them for use.
+- The goal of course isn’t to “do Scrum,” “do agile,” “do Lean,” or what-have-you. The goal is to be in a position to deliver working software that gives the users some new capability at a moment’s notice.
+- Deliver when users need it.
+- Overly investing in any particular methodology can leave you blind to alternatives.
+- A Pragmatic Methodology has three base components: Version Control, Regression Testing and Full Automation.
+- Use Version Control to drive builds, tests, and releases.
+- Test early, test often, test automatically.
+- A good project may well have more test code than production code.
+- Test state coverage, not code coverage.
+- Find bugs only once. If a bug slips through the net of existing tests, you need to add a new test to trap it next time.
+- Don't use manual procedures, become dependent on automation.
+- Our goal as developers is to delight users.
+- Delivering working software in a timely manner isn’t enough. That alone won’t delight them.
+- Users' expectations are not software related.
+- Ask this question: how will we know that we’ve all been successful a month (or a year, or whatever) after this project is done?
+- Delight users, don't just deliver code.
+- One way to delight your client, forge a relationship with them where you can actively help solve their problems.
+- That’s what we do, and that’s the essence of a Pragmatic Programmer. We solve problems.
+- Artisans of an earlier age were proud to sign their work. You should be, too.
+- Your signature should come to be recognized as an indicator of quality.
+-
