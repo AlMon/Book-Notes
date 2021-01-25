@@ -1,4 +1,4 @@
-# Chapter VIII - Before The Project:
+# Chapter 8 - Before The Project:
 
 - Even though the Agile Manifesto begins with "individuals and interactions over processes and tools,” virtually all “agile” projects begin with an ironic discussion of which process and which tools they’ll use.
 - No method can replace thinking.

@@ -1,4 +1,4 @@
-# Chapter VI - Concurrency:
+# Chapter 6 - Concurrency:
 
 - Concurrency is when the execution of two or more pieces of code act as if they run at the same time. **Parallelism** is when they do run at the same time
 - Concurrent and parallel code used to be exotic. Now it is required.

@@ -1,4 +1,4 @@
-# Chapter V - Bend or Break:
+# Chapter 5 - Bend or Break:
 
 - Life doesn’t stand still. Neither can the code that we write.
 - Write code that bends and doesn’t break.

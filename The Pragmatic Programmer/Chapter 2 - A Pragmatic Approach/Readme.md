@@ -1,4 +1,4 @@
-# Chapter II - A Pragmatic Approach:
+# Chapter 2 - A Pragmatic Approach:
 
 - Good design is easier to change than bad design.
 - A thing is well designed if it adapts to the people who use it.

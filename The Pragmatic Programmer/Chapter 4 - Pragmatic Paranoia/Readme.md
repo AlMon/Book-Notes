@@ -1,4 +1,4 @@
-# Chapter IV - Pragmatic Paranoia:
+# Chapter 4 - Pragmatic Paranoia:
 
 - You can't write perfect software and that shouldn't hurt, it doesn't exist.
 - Build in defenses against your own mistakes.

@@ -1,4 +1,4 @@
-# Chapter III - The Basic Tools:
+# Chapter 3 - The Basic Tools:
 
 - Tools amplify your talent.
 - Start with a basic set of more generalist tools and expect to add to your toolbox regularly.

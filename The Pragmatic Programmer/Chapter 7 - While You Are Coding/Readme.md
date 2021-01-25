@@ -1,4 +1,4 @@
-# Chapter VII - While You Are Coding:
+# Chapter 7 - While You Are Coding:
 
 - Conventional wisdom says that once a project is in the coding phase, the work is mostly mechanical, transcribing the design into executable statements. We think that this attitude is the single biggest reason that software projects fail.
 - Coding is not mechanical, otherwise programmers would've been largely redundant from long ago.

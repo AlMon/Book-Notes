@@ -1,4 +1,4 @@
-# Chapter IX - Pragmatic Projects:
+# Chapter 9 - Pragmatic Projects:
 
 - As soon as you have more than one person working on a project, you need to establish some ground rules and delegate parts of the project accordingly.
 - The purpose of a software development method is to help people work together.

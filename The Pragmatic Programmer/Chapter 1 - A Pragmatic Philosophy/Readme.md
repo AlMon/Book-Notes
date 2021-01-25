@@ -1,4 +1,4 @@
-# Chapter I - A Pragmatic Philosophy:
+# Chapter 1 - A Pragmatic Philosophy:
 
 - Provide options, don't make lame excuses.
 - I don't know... but I'll find out.
