@@ -13,7 +13,7 @@
 - Make it easy to reuse or people won't use it.
 - Minimize secondary effects by decoupling.
 - Design components that are self-contained: independent, with a single well-defined purpose.
-- Don't rely on the properties of thing you can't control.
+- Don't rely on the properties of a thing you can't control.
 - The Decorator Pattern: add functionality to things without changing them.
 - When writing documentation, focus on the content.
 - Nothing is more dangerous than an idea if it's the only one you have.
@@ -33,7 +33,7 @@
 - The limits of language are the limits of one's world.
 - To some extent all answers are estimates. Some are just closer to target.
 - When it comes to estimating, start by asking if they need high accuracy or ballpark figures.
-- Scale estimates as follows: 1 - 15 days / 3 - 6 weeks / 8 - 20 weeks / 20+ weeks
+- Scale estimates as follows: 1 - 15 days / 3 - 6 weeks / 8 - 20 weeks / 20+ weeks.
 - Choose the unit of your answer to reflect the accuracy intended.
 - Record your estimates and keep track of them. If you break, find out why.
 - Estimate in a range of scenarios accounting for different variables.
