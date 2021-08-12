@@ -13,7 +13,9 @@ Bindings —variables, that is— can be thought of as tentacles rather than box
 A single _let_ statement can grasp different bindings separated by commas. For example:
 
 > let one = 1, two = 2;
+> 
 > console.log(one + two);
+> 
 > // → 3
 
 Binding names can be any word except for strictly the same as the reserved keywords. Digits can be part of binding names—“catch22” is a valid name, for example—but the name must not start with a digit. A binding name may include dollar signs ($) or underscores (\_) but no other punctuation or special characters.
@@ -28,6 +30,10 @@ Programs are executed from top to bottom, like a story. Then again, not all prog
 
 Conditionals enable us to give our programs nuance and alternative paths within the roads we envision.
 
+![image](https://user-images.githubusercontent.com/4275841/129141413-636559b0-6e18-4612-8299-239f954960d0.png)
+
 The idea of programs is to make something _less_ work, not more work. Therefore loops are handy in cases we need a piece of reputable logic. Loops enable scale but they are also a kind of disruption of the regular control flow of a program.
+
+![image](https://user-images.githubusercontent.com/4275841/129141450-7fcd63ad-927e-45b4-aea0-d9417445114a.png)
 
 This being the case, there are two ways to break a loop. One is to finish it, i.e. to meet its final required value and the other one is to use the _break_ keyword. Loops that do not have a way to exit become infinite loops.
