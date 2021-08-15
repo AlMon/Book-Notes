@@ -1,6 +1,6 @@
 # Functions
 
-Functions are the BnB of JavaScript because wrapping a piece of a program inside a value has many uses. It allows us to give structure to larger programs, to reduce repetition and to associate names with subprograms.
+Functions are the bread and butter of JavaScript because wrapping a piece of a program inside a value has many uses. It allows us to give structure to larger programs, to reduce repetition and to associate names with subprograms.
 
 Defining new vocabulary is the most obvious application of functions, it is indispensable for programming.
 
